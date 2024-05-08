@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Countdown</string>
     <string name="text_year">YRS</string>
+    <string name="number_default_text">00</string>
+    <string name="day_text">DAY</string>
+    <string name="second_text">SEC</string>
+    <string name="hour_text">HRS</string>
+    <string name="minutes_text">MIN</string>
+    <string name="years_text">YRS</string>
 </resources>
